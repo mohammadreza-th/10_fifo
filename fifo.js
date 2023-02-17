@@ -20,7 +20,7 @@ function push(item, array) {
 //   return pushedArray;
 // }
 
-//test your self:
+//test it your self:
 // console.log("push(8, [1, 2, 3, 4, 5]) = ", push(8, [1, 2, 3, 4, 5]));
 
 //3) pull function with for loop!
@@ -33,7 +33,7 @@ function pull(array) {
   return pulledArray;
 }
 
-//test your self:
+//test it your self:
 // console.log("pull([1, 2, 3, 4, 5, 6]) = ", pull([1, 2, 3, 4, 5, 6]));
 
 //4) extra workout (setIn() method)!
@@ -69,7 +69,7 @@ function setIn(item, i, array) {
   }
 }
 
-//test your self:
+//test it your self:
 // console.log(setIn("hamid", 3, [1, 2, 3]));
 // console.log(setIn("hamid", 0, [1, 2, 3]));
 // console.log(setIn("hamid", 8, [1, 2, 3]));
